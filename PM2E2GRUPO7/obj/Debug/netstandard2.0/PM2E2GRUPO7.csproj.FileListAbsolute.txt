@@ -67,3 +67,24 @@ C:\Users\m4rv1\Source\Repos\P2E2Grupo7\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E
 C:\Users\m4rv1\Source\Repos\P2E2Grupo7\PM2E2GRUPO7\obj\Debug\netstandard2.0\ref\PM2E2GRUPO7.dll
 C:\Users\m4rv1\Source\Repos\P2E2Grupo7\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E2GRUPO7.pdb
 C:\Users\Josue Castro\Source\Repos\P2E2Grupo7\PM2E2GRUPO7\obj\Debug\netstandard2.0\Views\UpdatePage.xaml.g.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\bin\Debug\netstandard2.0\PM2E2GRUPO7.deps.json
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\bin\Debug\netstandard2.0\PM2E2GRUPO7.dll
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\bin\Debug\netstandard2.0\ref\PM2E2GRUPO7.dll
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\bin\Debug\netstandard2.0\PM2E2GRUPO7.pdb
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E2GRUPO7.csproj.AssemblyReference.cache
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E2GRUPO7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\Views\DirectionsPage.xaml.g.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\Views\PruebaPage.xaml.g.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\Views\UpdatePage.xaml.g.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E2GRUPO7.AssemblyInfoInputs.cache
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E2GRUPO7.AssemblyInfo.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E2GRUPO7.csproj.CoreCompileInputs.cache
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E2GRUPO7.dll
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\ref\PM2E2GRUPO7.dll
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\PM2E2GRUPO7.pdb
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\Views\FourSquarePage.xaml.g.cs
+C:\Users\Stephany Calix\Source\Repos\P2E2GRUPO07\PM2E2GRUPO7\obj\Debug\netstandard2.0\Views\MapsPage.xaml.g.cs

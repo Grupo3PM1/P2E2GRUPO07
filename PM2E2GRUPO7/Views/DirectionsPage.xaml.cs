@@ -94,29 +94,30 @@ namespace PM2E2GRUPO7.Views
         private void btnfoursqare_Clicked(object sender, EventArgs e)
         {
 
+
+
+
         }
 
+        private async void btnmapa_Clicked(object sender, EventArgs e)
+        {
+
+            var ubicacion = list.SelectedItem as Models.Sitio;
+            if (ubicacion != null)
+            {
 
 
-        /*private async void btnactualizar_Clicked(object sender, EventArgs e)
-       {
-          var ubicacion = list.SelectedItem as Models.Sitio;
-           if (ubicacion != null)
-           {
+                var page = new Views.MapsPage();
+                page.BindingContext = ubicacion;
+                await Navigation.PushAsync(page);
 
+            }
+            else
+            {
+                await DisplayAlert("Alerta", "Seleccione un registro", "Ok");
+            }
 
-               var page = new Views.UpdatePage();
-               page.BindingContext = ubicacion;
-               await Navigation.PushAsync(page);
-
-           }
-           else
-           {
-               await DisplayAlert("Alerta", "Seleccione un registro", "Ok");
-           }
-    }*/
-
-      
+        }
 
     }
 }

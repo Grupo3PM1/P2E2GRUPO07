@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PM2E2GRUPO7",
+    "\\PM2E2GRUPO7\\Views"
   ],
-  "SelectedNode": "\\PM2E2GRUPO7.sln",
+  "SelectedNode": "\\PM2E2GRUPO7\\Views\\FourSquarePage.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
